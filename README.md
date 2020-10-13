@@ -14,3 +14,6 @@ We will use this principle of backtracking to implement the following algorithm.
    b. If it is not valid, reset the square you just filled and go back to the previous step.
 6. Once the board is full by the definition of this algorithm we have found a solution.
 
+![](sudoku_image.png)
+
+
